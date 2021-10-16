@@ -1,4 +1,4 @@
-# Advance-Class-Management-System
+# Advance-Class-Governance-Pro
 
 
 This is a mini Project which manages the whole class system.
